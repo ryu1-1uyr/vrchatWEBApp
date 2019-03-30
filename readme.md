@@ -1,3 +1,3 @@
 webからごにょごにょできたらよさそうってやつ
-
-(これを使う)[https://vrchatapi.github.io/#/README ]よてい
+https://vrchatapi.github.io/#/README
+これを使うよてい
